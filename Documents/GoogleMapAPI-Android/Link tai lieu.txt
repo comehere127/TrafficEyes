@@ -1,6 +1,5 @@
 https://duythanhcse.wordpress.com/2014/12/20/bai-53-google-maps-android-api-phan-1/
 
-<<<<<<< HEAD
 ==Luan van tham khao=========
 http://luanvan.net.vn/luan-van/khoa-luan-ho-tro-phat-hien-va-thong-bao-un-tac-giao-thong-tren-android-52989/
 ==
@@ -10,4 +9,3 @@ https://www.google.com/maps/place/New+York,+NY/@40.7053111,-74.2581879,10z/data=
 
 Mocous, Rusia
 https://www.yandex.ru/maps/213/moscow/?text=mocous&sll=37.646961%2C55.725045&sspn=1.628723%2C0.503779&ol=geo&ouri=ymapsbm1%3A%2F%2Fgeo%3Fll%3D37.620%252C55.754%26spn%3D0.641%252C0.466%26text%3D%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F%252C%2520%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B0&ll=37.646274%2C55.768036&z=12&l=trf%2Ctrfe
->>>>>>> fca75f2428ddbeb049a8f2c1485af7799a3bdaf3
